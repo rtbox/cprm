@@ -1,0 +1,161 @@
+Hi Richard,
+Please note my agreement to proceed on this basis.
+
+I really appreciate your help with this.
+Best wishes
+Robert
+
+-----Original Message-----
+From: richardbox@rtboxdesign.com [mailto:richardbox@rtboxdesign.com]
+Sent: Tuesday, 12 March 2013 1:40 PM
+To: robertcj
+Subject: RE: Some Information on Drupal
+
+Sorry! Let me include the attachment this time!
+
+
+
+> Hi Robert,
+>
+> In order to have the menu system editable we will have to migrate the
+> current html based menu layout into drupal's menu system. This is no
+> problem but will require some new css and javascript to properly
+> output this to look the same as on the current website.
+>
+> With that in mind, I have attached a quote with some further details
+> for you. If you're still interested in going ahead, provided delivery
+> of the correct information, I should be able to get this finished by Monday.
+>
+> Thank-you for the opportunity to quote this job, Richard
+>
+>
+>> Hi Ricky,
+>> Thanks for your notes below.
+>>
+>> The rebuilt version will need to be apache and MySQL. Assume latest
+>> version - 1.
+>>
+>> The menu system should be editable by the user.   Is it better to use
+>> the
+>> Drupal menu system and forget about the existing old cms menu system?
+>> Best wishes
+>> Robert
+>>
+>>
+>>
+>> -----Original Message-----
+>> From: richardbox@rtboxdesign.com [mailto:richardbox@rtboxdesign.com]
+>> Sent: Monday, 11 March 2013 9:43 PM
+>> To: robertcj
+>> Subject: RE: Some Information on Drupal
+>>
+>> Hi Robert,
+>>
+>> Sorry for my lack of contact tonight. I have spent the night so far
+>> setting up my development environment. I've been thinking about the
+>> project and would just like to clarify a few extra details in regards to
+>> your hosting environment.
+>>
+>> Are you running Apache or IIS?
+>> What version of PHP (php 5.3.x or php 5.4.x)?
+>> What version of MySQL (5.5.x)?
+>>
+>> I am not well versed in the IIS system however have dealt with it before
+>> in a minor capacity. If you are running IIS (and depending on which
+>> version) rewritten urls may not function as expected. I believe there
+>> are
+>> workarounds for each system, however, I may need to do some research to
+>> figure out what we need to do to get them to work if it is not already
+>> set
+>> up.
+>>
+>> Also last thing on the wunderbar.com.au website before I can give you an
+>> accurate price.
+>>
+>> Does the menu system need to be editable by the user. ie: they want to
+>> add
+>> something or change the spelling or something on a menu item. I ask
+>> because integrating that menu system with Drupal's menu system will
+>> require some updated html/css and javascript, obviously making the
+>> project
+>> a bit longer.
+>>
+>>
+>> Thanks again and I hope you have a great night, Richard
+>>
+>>> Thanks Ricky,
+>>> I will read through this information.
+>>> Best wishes
+>>> Robert
+>>>
+>>> -----Original Message-----
+>>> From: richardbox@rtboxdesign.com [mailto:richardbox@rtboxdesign.com]
+>>> Sent: Sunday, 10 March 2013 10:51 PM
+>>> To: robertcj
+>>> Subject: Some Information on Drupal
+>>>
+>>> Hi Robert,
+>>>
+>>> I have included some links and thoughts on Drupal you may find
+>>> interesting.
+>>>
+>>> Drupal Overview:
+>>> http://drupal.org/getting-started/before/overview
+>>>
+>>> This might be a bit long but the explanation at the start of CMS and
+>>> CMF is probably one of the best things about Drupal.
+>>>
+>>> Something like Wordpress sits fairly exclusively on the CMS side.
+>>> Joomla (like Drupal) Tries to find the balance between the two (Though
+>>> is more dedicated to the CMS side than CMF). Yii is exclusively CMF.
+>>>
+>>> The power of Drupal is that there are premade, plug and play options
+>>> for quick builds but you have the power of the robust CMF for custom
+>>> situations.
+>>>
+>>>
+>>> Here is some information you might find helpful in regards to security.
+>>>
+>>> http://drupal.org/documentation/is-drupal-secure
+>>> http://drupal.org/security-team
+>>> http://drupal.org/about/security-track-record
+>>>
+>>>
+>>> If you're interested, here are some case studies of businesses that
+>>> have chosen to use Drupal:
+>>>
+>>> http://drupal.org/case-studies
+>>>
+>>>
+>>> Some choice ones:
+>>>
+>>> British Medical Journal
+>>> http://drupal.org/node/1557636
+>>>
+>>> Stanford Law School
+>>> http://drupal.org/node/1671878
+>>>
+>>> PEER1 Hosting
+>>> http://drupal.org/node/1677318
+>>>
+>>> Turner Broadcasting
+>>> http://drupal.org/node/1670774
+>>>
+>>>
+>>> Happy reading! Hopefully we can catch up sometime tomorrow night to
+>>> discuss the project further.
+>>>
+>>> Thanks,
+>>> Richard
+>>>
+>>>
+>>>
+>>>
+>>
+>>
+>>
+>>
+>>
+>
+>
+
